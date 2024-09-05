@@ -1,3 +1,5 @@
+// Q: f(x) = 2*x^2 - 12*x + 7. Find the minimum value of f(x) where x will be in the given range [l,r] = [0,10].
+
 #include<bits/stdc++.h>
 using namespace std;
 
